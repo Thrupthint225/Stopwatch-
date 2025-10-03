@@ -89,12 +89,3 @@ function start() {
 ### 7. Style (CSS)
 - Use CSS for layout, fonts, and responsive design.
 
----
-
-## Next Steps
-Would you like:
-- A full code implementation (HTML, CSS, JS in a single file)?
-- Separate files for each (HTML/CSS/JS)?
-- To use a framework like React or keep it vanilla JavaScript?
-
-Let me know your preference and I can generate the code for you!
